@@ -11,6 +11,7 @@ Create your token here:
 https://github.com/settings/personal-access-tokens/new
 No Docker required
 (Because we use the hosted MCP server)
+#command:gemini --model gemini-2.5-flash 
 🔹 Step 1 --- Store Your PAT Securely
 Do NOT hardcode your PAT in the settings file.
 
